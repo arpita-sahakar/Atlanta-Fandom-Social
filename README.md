@@ -120,7 +120,7 @@ If you have any questions contact us through email:
 
 ## Deployment
 
-[Live Site](https://atlfandomsocial.herokuapp.com/)
+[Live Site](https://polar-cliffs-91103.herokuapp.com/)
 
 ## Credits
 
